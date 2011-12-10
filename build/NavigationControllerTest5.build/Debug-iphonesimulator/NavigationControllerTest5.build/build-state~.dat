@@ -1,0 +1,361 @@
+TNavigationControllerTest5
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/Info.plist NavigationControllerTest5/NavigationControllerTest5-Info.plist
+cProcessPCH /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NavigationControllerTest5-Prefix-bykwwqyvaxscaobogetjwauveyuv/NavigationControllerTest5-Prefix.pch.pth NavigationControllerTest5/NavigationControllerTest5-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/main.o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/xyzAppDelegate.o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/xyzAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/xyzViewController.o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/xyzViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/page2.o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/Utilities.o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/Utilities.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/SomeModal.o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/SomeModal.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/NavigationControllerTest5 normal i386
+cGenerateDSYMFile /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app.dSYM /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/NavigationControllerTest5
+cCopyStringsFile /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/en.lproj/InfoPlist.strings NavigationControllerTest5/en.lproj/InfoPlist.strings
+cCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/en.lproj/xyzViewController.xib
+cCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.xib
+cCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/SomeModal.xib
+cTouch /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004E9F323F0000000000000110
+t1319055935
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/NavigationControllerTest5-Prefix.pch
+c000000004EE215F70000000000000161
+t1323439607
+s353
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/SomeModal.m
+c000000004EE2A747000000000000055A
+t1323476807
+s1370
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/SomeModal.xib
+c000000004EE2A8E70000000000001A73
+t1323477223
+s6771
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/Utilities.m
+c000000004EE2A86E0000000000000207
+t1323477102
+s519
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/en.lproj/InfoPlist.strings
+c000000004EE215F7000000000000002D
+t1323439607
+s45
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/en.lproj/xyzViewController.xib
+c000000004EE228300000000000002761
+t1323444272
+s10081
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/main.m
+c000000004EE215F7000000000000016E
+t1323439607
+s366
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.m
+c000000004EE2A8E0000000000000127C
+t1323477216
+s4732
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.xib
+c000000004EE21EA20000000000001828
+t1323441826
+s6184
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/xyzAppDelegate.m
+c000000004EE228A90000000000000AB2
+t1323444393
+s2738
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/xyzViewController.m
+c000000004EE228E90000000000000742
+t1323444457
+s1858
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app.dSYM
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/Info.plist
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/NavigationControllerTest5
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/PkgInfo
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/SomeModal.nib
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/en.lproj/xyzViewController.nib
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/page2.nib
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/NavigationControllerTest5.LinkFileList
+c000000004EE2A8E700000000000004A8
+t1323477223
+s1192
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/SomeModal.o
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/Utilities.o
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/page2.o
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/xyzAppDelegate.o
+t2
+s0
+
+N/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/xyzViewController.o
+t2
+s0
+
+N/var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NavigationControllerTest5-Prefix-bykwwqyvaxscaobogetjwauveyuv/NavigationControllerTest5-Prefix.pch.pth
+t2
+s0
+
+NNavigationControllerTest5/NavigationControllerTest5-Info.plist
+c000000004EE215F700000000000004B7
+t1323439607
+s1207
+
+CBuild AST from /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/SomeModal.m
+r0
+
+CBuild AST from /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/Utilities.m
+r0
+
+CBuild AST from /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/main.m
+r0
+
+CBuild AST from /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.m
+r0
+
+CBuild AST from /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/xyzAppDelegate.m
+r0
+
+CBuild AST from /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/xyzViewController.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb6f64267e092b441^4e0d5867e092b441^---0#1#0#--18"Check dependencies36"1F08D346-3C00-4F85-B499-F460D60398E7-
+
+CCompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/SomeModal.o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/SomeModal.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345170023.993426
+e345170024.067108
+r1
+xCompileC
+xbuild/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/SomeModal.o
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/SomeModal.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/SomeModal.m5c74fe67e092b441^8ae61168e092b441^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/SomeModal.m0000000000000000^3529"CompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/SomeModal.o NavigationControllerTest5/SomeModal.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-generated-files.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-own-target-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-all-target-headers.hmap -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-project-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/DerivedSources/i386 -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/DerivedSources -F/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator -include /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NavigationControllerTest5-Prefix-bykwwqyvaxscaobogetjwauveyuv/NavigationControllerTest5-Prefix.pch -MMD -MT dependencies -MF /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/SomeModal.d -c /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/SomeModal.m -o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/SomeModal.o36"2A09F63C-E186-4C07-8CB0-2CB26445EE32-
+
+CCompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/Utilities.o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/Utilities.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345170023.940706
+e345170024.051158
+r1
+xCompileC
+xbuild/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/Utilities.o
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/Utilities.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/Utilities.mfcfcf367e092b441^beda1168e092b441^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/Utilities.m0000000000000000^3529"CompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/Utilities.o NavigationControllerTest5/Utilities.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-generated-files.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-own-target-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-all-target-headers.hmap -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-project-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/DerivedSources/i386 -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/DerivedSources -F/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator -include /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NavigationControllerTest5-Prefix-bykwwqyvaxscaobogetjwauveyuv/NavigationControllerTest5-Prefix.pch -MMD -MT dependencies -MF /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/Utilities.d -c /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/Utilities.m -o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/Utilities.o36"6CF98611-2E93-4750-BC3A-9EB3DD111729-
+
+CCompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/main.o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345170023.821701
+e345170023.869036
+r1
+xCompileC
+xbuild/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/main.o
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/main.mf583d267e092b441^9486de67e092b441^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/main.m0000000000000000^3504"CompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/main.o NavigationControllerTest5/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-generated-files.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-own-target-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-all-target-headers.hmap -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-project-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/DerivedSources/i386 -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/DerivedSources -F/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator -include /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NavigationControllerTest5-Prefix-bykwwqyvaxscaobogetjwauveyuv/NavigationControllerTest5-Prefix.pch -MMD -MT dependencies -MF /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/main.d -c /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/main.m -o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/main.o36"E7B7E0C6-7F44-4F91-98C8-D90D9C6E211A-
+
+CCompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/page2.o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345170023.917170
+e345170023.991889
+r1
+xCompileC
+xbuild/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/page2.o
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.m:82:2: warning: #warning Potentially incomplete method implementation. [-W#warnings,7]
+o #warning Potentially incomplete method implementation.
+o  ^
+o/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.m:89:2: warning: #warning Incomplete method implementation. [-W#warnings,7]
+o #warning Incomplete method implementation.
+o  ^
+o2 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.m8decea67e092b441^62f7fd67e092b441^-506"/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.m:82:2: warning: #warning Potentially incomplete method implementation. [-W#warnings,7] #warning Potentially incomplete method implementation.  ^/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.m:89:2: warning: #warning Incomplete method implementation. [-W#warnings,7] #warning Incomplete method implementation.  ^2 warnings generated.2(21%IDEActivityLogMessage2@54"#warning Potentially incomplete method implementation.-345170023#0#194#-1#-23%DVTTextDocumentLocation3@123"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.m0000000000000000^81#1#81#1#18446744073709551615#0#18"#warning Directive--2@42"#warning Incomplete method implementation.-345170023#254#182#-1#-3@123"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.m0000000000000000^88#1#88#1#18446744073709551615#0#18"#warning Directive--0#0#0#-19%DVTDocumentLocation4@123"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.m0000000000000000^3509"CompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/page2.o NavigationControllerTest5/page2.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-generated-files.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-own-target-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-all-target-headers.hmap -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-project-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/DerivedSources/i386 -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/DerivedSources -F/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator -include /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NavigationControllerTest5-Prefix-bykwwqyvaxscaobogetjwauveyuv/NavigationControllerTest5-Prefix.pch -MMD -MT dependencies -MF /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/page2.d -c /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.m -o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/page2.o36"E1946558-D9B6-4D52-A606-26F101A55F15-
+
+CCompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/xyzAppDelegate.o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/xyzAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345170023.821953
+e345170023.915942
+r1
+xCompileC
+xbuild/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/xyzAppDelegate.o
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/xyzAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/xyzAppDelegate.m6685d267e092b441^2788ea67e092b441^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/xyzAppDelegate.m0000000000000000^3554"CompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/xyzAppDelegate.o NavigationControllerTest5/xyzAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-generated-files.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-own-target-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-all-target-headers.hmap -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-project-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/DerivedSources/i386 -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/DerivedSources -F/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator -include /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NavigationControllerTest5-Prefix-bykwwqyvaxscaobogetjwauveyuv/NavigationControllerTest5-Prefix.pch -MMD -MT dependencies -MF /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/xyzAppDelegate.d -c /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/xyzAppDelegate.m -o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/xyzAppDelegate.o36"5D43E0DD-5DAD-42EA-8C74-AA45BCF00F38-
+
+CCompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/xyzViewController.o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/xyzViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345170023.870289
+e345170023.939476
+r1
+xCompileC
+xbuild/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/xyzViewController.o
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/xyzViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/xyzViewController.m3eebde67e092b441^ac8ef067e092b441^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/xyzViewController.m0000000000000000^3569"CompileC build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/xyzViewController.o NavigationControllerTest5/xyzViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-generated-files.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-own-target-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-all-target-headers.hmap -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-project-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/DerivedSources/i386 -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/DerivedSources -F/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator -include /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NavigationControllerTest5-Prefix-bykwwqyvaxscaobogetjwauveyuv/NavigationControllerTest5-Prefix.pch -MMD -MT dependencies -MF /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/xyzViewController.d -c /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/xyzViewController.m -o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/xyzViewController.o36"0FB874AD-FE07-4615-9A5B-40E4CA7350DE-
+
+CCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/SomeModal.xib
+s345170026.556986
+e345170027.027692
+r1
+xCompileXIB
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/SomeModal.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compiling /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/SomeModal.xibb0aa8e6ae092b441^7219076be092b441^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/SomeModal.xib0000000000000000^826"CompileXIB NavigationControllerTest5/SomeModal.xib    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/SomeModal.nib /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/SomeModal.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"C924F101-3825-431D-B3A1-17AAAEF98C0A-
+
+CCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/en.lproj/xyzViewController.xib
+s345170024.145056
+e345170026.823293
+r1
+xCompileXIB
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/en.lproj/xyzViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Compiling /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/en.lproj/xyzViewController.xib26342568e092b441^e7c8d26ae092b441^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/en.lproj/xyzViewController.xib0000000000000000^877"CompileXIB NavigationControllerTest5/en.lproj/xyzViewController.xib    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/en.lproj/xyzViewController.nib /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/en.lproj/xyzViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"3AADC5EA-BF2B-4289-9D00-1AEDF7ADE702-
+
+CCompileXIB /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.xib
+s345170024.150193
+e345170026.555609
+r1
+xCompileXIB
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compiling /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.xib1a872668e092b441^bc3f8e6ae092b441^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.xib0000000000000000^814"CompileXIB NavigationControllerTest5/page2.xib    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/page2.nib /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/page2.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"04D9FD33-69AE-420B-A202-83AA744F942B-
+
+CCopyStringsFile /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/en.lproj/InfoPlist.strings NavigationControllerTest5/en.lproj/InfoPlist.strings
+s345170024.144510
+e345170024.149036
+r1
+xCopyStringsFile
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/en.lproj/InfoPlist.strings
+xNavigationControllerTest5/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy NavigationControllerTest5/en.lproj/InfoPlist.strings02122568e092b441^7aff2768e092b441^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/en.lproj/InfoPlist.strings0000000000000000^653"CopyStringsFile build/Debug-iphonesimulator/NavigationControllerTest5.app/en.lproj/InfoPlist.strings NavigationControllerTest5/en.lproj/InfoPlist.strings    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/en.lproj -- NavigationControllerTest5/en.lproj/InfoPlist.strings36"3BAF0A2D-B5C7-4AFC-A109-A2AB7905609D-
+
+CGenerateDSYMFile /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app.dSYM /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/NavigationControllerTest5
+s345170024.109034
+e345170024.139681
+r1
+xGenerateDSYMFile
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app.dSYM
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/NavigationControllerTest5
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Generating /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app.dSYM66831c68e092b441^0dc72368e092b441^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app.dSYM00f80c2adcffdf42^706"GenerateDSYMFile build/Debug-iphonesimulator/NavigationControllerTest5.app.dSYM build/Debug-iphonesimulator/NavigationControllerTest5.app/NavigationControllerTest5    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/NavigationControllerTest5 -o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app.dSYM36"E9E5C8D4-C0DC-4E17-B3C7-70676A9DE27F-
+
+CLd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/NavigationControllerTest5 normal i386
+s345170024.068892
+e345170024.107261
+r1
+xLd
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/NavigationControllerTest5
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection162"Link /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/NavigationControllerTest524b81168e092b441^67801b68e092b441^---0#0#0#--1332"Ld build/Debug-iphonesimulator/NavigationControllerTest5.app/NavigationControllerTest5 normal i386    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator -F/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator -filelist /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/Objects-normal/i386/NavigationControllerTest5.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/NavigationControllerTest536"6CCA1E03-3BE9-49CD-A5C9-7F7499FEED53-
+
+CProcessInfoPlistFile /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/Info.plist NavigationControllerTest5/NavigationControllerTest5-Info.plist
+s345170023.360634
+e345170023.398890
+r1
+xProcessInfoPlistFile
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/Info.plist
+xNavigationControllerTest5/NavigationControllerTest5-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Process NavigationControllerTest5/NavigationControllerTest5-Info.plist30655c67e092b441^14066967e092b441^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/NavigationControllerTest5-Info.plist0000000000000000^817"ProcessInfoPlistFile build/Debug-iphonesimulator/NavigationControllerTest5.app/Info.plist NavigationControllerTest5/NavigationControllerTest5-Info.plist    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NavigationControllerTest5/NavigationControllerTest5-Info.plist -genpkginfo /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app/Info.plist36"94BE7E20-FE24-4497-B4D5-6E6C77D9B0D2-
+
+CProcessPCH /Users/jeff/Library/Developer/Xcode/DerivedData/NavigationControllerTest5-bwngpllzllrotnfydyeahqkhlhwc/Index/PrecompiledHeaders/NavigationControllerTest5-Prefix-giadhrgpjoqylfcrhooiuesuxpqn_ast/NavigationControllerTest5-Prefix.pch.pth NavigationControllerTest5/NavigationControllerTest5-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NavigationControllerTest5-Prefix-bykwwqyvaxscaobogetjwauveyuv/NavigationControllerTest5-Prefix.pch.pth NavigationControllerTest5/NavigationControllerTest5-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345170023.403504
+e345170023.819818
+r1
+xProcessPCH
+x/var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NavigationControllerTest5-Prefix-bykwwqyvaxscaobogetjwauveyuv/NavigationControllerTest5-Prefix.pch.pth
+xNavigationControllerTest5/NavigationControllerTest5-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Precompile NavigationControllerTest5/NavigationControllerTest5-Prefix.pch3c6b6767e092b441^78eed167e092b441^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/NavigationControllerTest5-Prefix.pch0000000000000000^3463"ProcessPCH /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NavigationControllerTest5-Prefix-bykwwqyvaxscaobogetjwauveyuv/NavigationControllerTest5-Prefix.pch.pth NavigationControllerTest5/NavigationControllerTest5-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-generated-files.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-own-target-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-all-target-headers.hmap -iquote /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/NavigationControllerTest5-project-headers.hmap -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/include -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/DerivedSources/i386 -I/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/NavigationControllerTest5.build/Debug-iphonesimulator/NavigationControllerTest5.build/DerivedSources -F/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator -c /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/NavigationControllerTest5/NavigationControllerTest5-Prefix.pch -o /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NavigationControllerTest5-Prefix-bykwwqyvaxscaobogetjwauveyuv/NavigationControllerTest5-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/VD/VDCjL0iSH7Onp0UbFNLASE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/NavigationControllerTest5-Prefix-bykwwqyvaxscaobogetjwauveyuv/NavigationControllerTest5-Prefix.pch.d36"EDBC0512-2FD7-4B50-9474-7BA3F89346AC-
+
+CTouch /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app
+s345170027.032293
+e345170027.044064
+r1
+xTouch
+x/Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Touch /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app3259086be092b441^93530b6be092b441^---0#0#0#--430"Touch build/Debug-iphonesimulator/NavigationControllerTest5.app    cd /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jeff/Documents/workspace/iPhoneWorkspace/NavigationControllerTest5/build/Debug-iphonesimulator/NavigationControllerTest5.app36"6B3A31A8-C73A-4FBA-953A-AE6C977E7C16-
+
